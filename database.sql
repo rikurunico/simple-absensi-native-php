@@ -1,7 +1,7 @@
--- Database structure for Sistem Absensi dan Penggajian
+-- Database structure for Sistem Absensi dan Penggajian (ga di pakai karena di install.php)
 
-CREATE DATABASE IF NOT EXISTS absensi_db;
-USE absensi_db;
+-- CREATE DATABASE IF NOT EXISTS absensi_db;
+-- USE absensi_db;
 
 -- Table: users
 CREATE TABLE IF NOT EXISTS users (
